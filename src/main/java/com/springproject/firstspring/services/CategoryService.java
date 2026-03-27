@@ -2,7 +2,6 @@ package com.springproject.firstspring.services;
 
 import com.springproject.firstspring.entities.Category;
 import com.springproject.firstspring.repositories.CategoryRepository;
-import com.springproject.firstspring.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
